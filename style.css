@@ -3,12 +3,14 @@ header img {
     margin-left: 40px;
 }
 body {
-    height: 125vh;
+    height: 125px;
     background-image: url('homepage.jpg');
     background-size: cover;
     font-family: sans-serif;
     margin-top: 80px;
     padding: 30px;
+    background-repeat-x: no-repeat;
+    background-repeat-y: no-repeat;
 }
 
 main {

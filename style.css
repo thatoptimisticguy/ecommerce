@@ -53,3 +53,9 @@ header li a {
     background: black;
     padding: 15px;
 }
+.opening{
+    color: white;
+    background: green;
+    position: absolute;
+    top:300px;
+}

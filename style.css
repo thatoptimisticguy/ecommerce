@@ -56,6 +56,6 @@ header li a {
 .opening{
     color: white;
     background: green;
-    position: absolute;
-    top:300px;
+    position: static;
+    margin-bottom:700px;
 }

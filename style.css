@@ -29,6 +29,11 @@ header {
 
 header * {
     display: inline;
+    margin-left: 80px;
+}
+
+header * : hover{
+    color: blue; 
 }
 
 header li {
